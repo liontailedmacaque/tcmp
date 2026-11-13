@@ -391,20 +391,14 @@ p {
 
 
 
-/* legal link in footer */
-.footer-legal {
-  margin-top: 24px;
-  text-align: center;
-  font-size: 0.75rem;
-}
-
-.footer-legal a {
+/*  legal link beside copyright */
+.footer-copyright a {
   color: inherit;
-  opacity: 0.65;
   text-decoration: none;
+  opacity: 0.7;
 }
 
-.footer-legal a:hover {
+.footer-copyright a:hover {
   opacity: 1;
   text-decoration: underline;
 }
