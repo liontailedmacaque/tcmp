@@ -1,0 +1,13 @@
+title: Chess Memory Palace
+description: Learn to memorise chess openings with the Chess Memory Palace method.
+url: "https://chessmemorypalace.com"
+baseurl: ""
+
+markdown: kramdown
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+      
